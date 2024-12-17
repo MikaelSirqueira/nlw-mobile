@@ -1,5 +1,4 @@
 import { View, Text } from "react-native"
-
 import { s } from "./styles"
 import { Step } from "../step"
 import { IconMapPin, IconQrcode, IconTicket } from "@tabler/icons-react-native"
