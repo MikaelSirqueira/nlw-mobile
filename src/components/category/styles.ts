@@ -1,5 +1,4 @@
-import { colors } from "@/styles/colors";
-import { fontFamily } from "@/styles/font-family";
+import { colors, fontFamily } from "@/styles/theme";
 import { StyleSheet } from "react-native";
 
 export const s = StyleSheet.create({
